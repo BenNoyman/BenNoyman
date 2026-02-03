@@ -1,6 +1,6 @@
 # **Hi 👋, I'm Ben**  
 
-<div align="center">👨🏻‍🎓 Currently a second-year student at Afeka - The Academic College of Engineering in Tel Aviv</div>   
+<div align="center">👨🏻‍🎓 B.Sc. Computer Science @Afeka - The Academic College of Engineering in Tel Aviv</div>   
 
 <br/>  
 
